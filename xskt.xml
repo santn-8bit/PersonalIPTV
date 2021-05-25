@@ -4,9 +4,9 @@
         <title>Xskt - Appcast</title>
         <item>
             <title>Version 2.0.0</title>
-            <description>Thêm chức năng phát hiện bản cập nhật mới.</description>
-            <pubDate>Sat, 22 May 2021 20:16:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=codebysantn.lottery_quick_check" sparkle:version="2.0.0" sparkle:os="android" />
+            <description>Thêm chức năng lọc kết quả tìm kiếm bằng tên đài hoặc ngày.</description>
+            <pubDate>Sat, 25 May 2021 21:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=codebysantn.lottery_quick_check" sparkle:version="2.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
