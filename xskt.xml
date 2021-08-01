@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Xskt - Appcast</title>
+        <title>Xskt - Xổ sổ siêu nhanh</title>
         <item>
-            <title>Version 2.0.0</title>
-            <description>Thêm chức năng lọc kết quả tìm kiếm bằng tên đài hoặc ngày.</description>
-            <pubDate>Sat, 25 May 2021 21:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=codebysantn.lottery_quick_check" sparkle:version="2.0.2" sparkle:os="android" />
+            <title>Version 2.2.1</title>
+            <description>Sửa lỗi tìm kiếm sai kết quả. Bây giờ đã có thể tìm kiếm 1 chuỗi số tùy ý.</description>
+            <pubDate>Sat, 01 Aug 2021 17:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=codebysantn.lottery_quick_check" sparkle:version="2.2.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
